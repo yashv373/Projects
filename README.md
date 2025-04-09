@@ -1,2 +1,12 @@
 # Projects
-A status-viewer and redirector to my projects. 
+---
+| Project | Timeline | Description | Skills/Tools | Link |
+|--------|----------|-------------|--------------|------|
+| **MIPS 5-stage Pipelined Microprocessor** | Mar 2025 – Apr 2025 | RTL implementation of a 5-stage pipelined MIPS CPU (no hazard handling) for FPGA lab mini-project. | Verilog, Vivado, GTKWave, Icarus Verilog | [GitHub](https://github.com/yashv373/MIPS-Microprocessor-Pipelined) |
+| **32-bit Brent-Kung Adder Design** | Jan 2025 – Mar 2025 | Designed and synthesized a 32-bit Brent-Kung Adder using Cadence tools. Achieved 3.78ns delay and 43.32 µW power. Paper submitted. | Cadence Genus, Verilog, EDA Playground | [Repo](https://github.com/yashv373/32-Bit-Brent-Kung-Adder) |
+| **8-bit Breadboard Computer (Ben Eater Replica)** | Oct 2024 – Present | Recreation of Ben Eater’s 8-bit CPU using TTL logic on breadboards. Final clock circuit includes monostable, bistable, and astable modes. | TTL Logic, Breadboarding | [GitHub](https://github.com/yashv373/8-BIT_Breadboard-Computer) |
+| **6T SRAM Design & Simulation** | Sep 2024 – Present | Design and simulation of MTCMOS-based 6T SRAM cell in Virtuoso. Also includes CMOS inverter design and LTSpice validation. | Cadence Virtuoso, LTSpice | Coming soon |
+| **Zyphon - Open Source VLSI Learning Platform** | Jan 2024 – Present | Building a free, structured platform for end-to-end VLSI education with hands-on simulations, HDL challenges, and a community-driven roadmap. | Open-source EDA Tools, Documentation | [Zyphon Repo](https://github.com/yashv373/Zyphon)|
+| **Mutual Fund Financial Literacy App** | Oct 2024 | Hackathon-winning app for educating youth on mutual funds through UI-rich simulations and gamified learning. Won "Best Hack" award at M# Manipal. | UI/UX Design, Git, Figma, Presentation | [GitHub]((https://github.com/yashv373/Wealth)) |
+| **Hybrid CMOS-MTJ XOR/XNOR Gate Simulation** | May 2024 – Jun 2024 | Developed a functioning XOR/XNOR gate using CMOS-MTJ hybrid logic with ngSpice. Based on IEEE Access 2020 paper. | ngSpice, CMOS-MTJ Netlist Design | [GitHub]((https://github.com/yashv373/CMOS-MTJ-Hybrid-Netlists)) |
+| **StreetWareHouse – Streetwear E-commerce Prototype** | May 2024 – Present | Conceptualized and prototyped a D2C + multivendor e-commerce platform for Indian streetwear brands. Hired a creative team for MVP design and Instagram content. | Entrepreneurship, Design, Team Management | [StreetWareHouse Docs](https://github.com/Yashraj88888/Street-Ware-House) |
